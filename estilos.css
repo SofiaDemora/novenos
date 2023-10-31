@@ -6,6 +6,10 @@
   body{
         background-color:bisque;
         font-family:arial,helvetica,sans-erif;
+    font-size:160%
+    text-align:justify;
+    margin-left:100px;
+    margin-right:500px;
   }
 
 
