@@ -12,8 +12,9 @@ body{
   margin-right:500px;
 }
 
-.aside{
+aside{
   float:right;
+  background-color:aqua;
 }
 
   
